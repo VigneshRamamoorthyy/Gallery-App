@@ -1,0 +1,16 @@
+.thumbnailImg {
+  width: 100px;
+}
+
+.ThumbnailItemBtn {
+  background-color: transparent;
+  border-width: 0px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.active {
+  width: 100px;
+  opacity: 0.5;
+}
